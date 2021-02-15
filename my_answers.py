@@ -21,7 +21,7 @@ def numbers_and_strings():
     # What is the length of z?
     length = len(z)
 
-    # Concatenate variable y with string " Great"
+    # Concatenate variable y with string "is Great"
     m = y + ' Great'
 
     # Replace "Great" with "good" in variable m and assign it to a new variable n
@@ -70,7 +70,7 @@ def dictionaries():
     """
     # Create a dictionary that maps:
     #   fruit => "apple"
-    #   quantity => 17
+    #   quantity => 4
     #   color => "red"
     f = {'fruit': "apple",
          'quantity': 17,
